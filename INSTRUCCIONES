@@ -16,5 +16,6 @@ Si no hay errores en tu código, se generará un archivo ejecutable automáticam
 7. El programa te solicitará ingresar el número de casos de prueba. Ingresa un número entero y presiona Enter.
 
 8. A continuación, el programa te pedirá ingresar el número de colores de calcetines para cada caso de prueba. Ingresa un número entero para cada caso y presiona Enter después de cada entrada.
+(en caso de que tu compilador secierra el presionar enter, colocar primero el numero entrero y despues espacio)
 
 9. Después de ingresar todos los números de colores de calcetines, el programa calculará y mostrará el resultado para cada caso de prueba en la ventana de salida de Dev-C++.
